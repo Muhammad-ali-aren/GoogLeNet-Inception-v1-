@@ -1,4 +1,4 @@
-# 🧠 GoogLeNet (Inception v1) — PyTorch Implementation
+# GoogLeNet (Inception v1) — PyTorch Implementation
 
 A clean and modular implementation of **GoogLeNet (Inception v1)** in **PyTorch**, built from scratch.  
 The model supports both **training** and **inference** modes with auxiliary classifiers as described in the original paper:
@@ -7,7 +7,7 @@ The model supports both **training** and **inference** modes with auxiliary clas
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This implementation follows the original GoogLeNet (Inception v1) architecture, consisting of:
 
@@ -43,6 +43,6 @@ Each consists of:
 Szegedy, C., Liu, W., Jia, Y., et al. (2015). Going Deeper with Convolutions.
 [Read the Paper](https://arxiv.org/abs/1409.4842)
 
-
-## 👤 Author
+---
+## Author
 **Muhammad Ali**
